@@ -18,7 +18,7 @@ User Stories:
 `npm start` - to start the server
 
 ## Example Creation Usage
-`http://host:port/new/https://www.google.com` - to shorten a new url
+`http://host:port/new/http://www.google.com` - to shorten a new url
 
 `http://host:port/new/http://foo-bar-bar.com:80` - to shorten a new url
 
